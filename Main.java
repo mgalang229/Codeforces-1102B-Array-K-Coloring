@@ -63,6 +63,9 @@ maintain a prev[num] (increment as we encounter num)
 
 sort the sequence in non-decreasing order
 
+3 4 5 5 5 5 5
+1 2 3 4 5 1 2
+
  */
 
 public class Main {
